@@ -1,0 +1,11 @@
+#border {
+	border-style: solid;
+	border-width: 15px;
+	border-color: lightpink;
+}
+body {
+	background-image: url(heh.png),url(heh.png),url(heh.png),url(heh.png);
+	background-repeat: no-repeat, no-repeat,no-repeat,no-repeat;
+	background-position: bottom left, bottom right, top left, top right;
+	padding: 15ox, 15px, 15px, 15px;
+}
